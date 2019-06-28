@@ -1,0 +1,39 @@
+programmer
+police officer
+firefighter
+designer
+architect
+systems analyst
+administrator
+salesman
+doctor
+nurse
+gynecologist
+data scientist
+mechanical
+electric engineer
+mechanical engineer
+civil engineer
+bricklayer
+streamer
+professional player
+athlete
+teacher
+director
+driver
+guard
+caretaker
+nanny
+journalist
+painter
+musician
+animator
+actor
+actress
+physicist
+chemical
+astrophysicist
+biologist
+computer scientist
+software engineer
+computer engineer
